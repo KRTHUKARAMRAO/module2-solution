@@ -3,4 +3,3 @@ Module 2 Coding Assignment Coursera course: HTML, CSS, and Javascript for Web De
 
 link to see result: https://github.com/KRTHUKARAMRAO/module2-solution/
 
-Woo-hoo! You get to do some coding! Exciting!
